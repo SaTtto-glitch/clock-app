@@ -1,5 +1,5 @@
 <template>
-  <Clock />
+  <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
 <script>

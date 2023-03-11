@@ -1,5 +1,5 @@
 <template>
-  <Clock />
+  <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
 <script>
@@ -8,7 +8,7 @@ import Clock from './components/ClockScreen.vue'
 export default {
   name: 'App',
   components: {
-    Clock
+    HelloWorld
   }
 }
 </script>

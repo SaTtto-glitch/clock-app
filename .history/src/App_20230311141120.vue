@@ -1,5 +1,5 @@
 <template>
-  <Clock />
+  </>
 </template>
 
 <script>
